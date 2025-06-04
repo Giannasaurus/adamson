@@ -6,7 +6,7 @@ public class AdUHymn {
 		System.out.println("All hail thy name");
 		System.out.println("In our wand'ring far or near");
 		System.out.println("We'll spread thy fame");
-		System.out.println("Within thy portals hallowed ");
+		System.out.println("Within thy portals hallowed");
 		System.out.println("True wisdom we have followed");
 		System.out.println("In every clime our loyal hearts");
 		System.out.println("Will never fail");
