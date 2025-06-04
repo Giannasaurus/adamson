@@ -1,0 +1,10 @@
+C:\Users\wugg\source\repos\COE\COE\obj\Debug\COE.csproj.AssemblyReference.cache
+C:\Users\wugg\source\repos\COE\COE\obj\Debug\COE.Form1.resources
+C:\Users\wugg\source\repos\COE\COE\obj\Debug\COE.Properties.Resources.resources
+C:\Users\wugg\source\repos\COE\COE\obj\Debug\COE.csproj.GenerateResource.cache
+C:\Users\wugg\source\repos\COE\COE\obj\Debug\COE.csproj.CoreCompileInputs.cache
+C:\Users\wugg\source\repos\COE\COE\bin\Debug\COE.exe.config
+C:\Users\wugg\source\repos\COE\COE\bin\Debug\COE.exe
+C:\Users\wugg\source\repos\COE\COE\bin\Debug\COE.pdb
+C:\Users\wugg\source\repos\COE\COE\obj\Debug\COE.exe
+C:\Users\wugg\source\repos\COE\COE\obj\Debug\COE.pdb
