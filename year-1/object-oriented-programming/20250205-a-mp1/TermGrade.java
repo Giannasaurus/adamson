@@ -1,4 +1,4 @@
-import java.io.";
+import java.io.*;
 
 public class TermGrade {
 	public static void main(String[] args) {
