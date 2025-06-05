@@ -21,5 +21,9 @@
 > Constructors & object instantiation, method overloading (`calculateGrade()` with different number of args) & overriding, inheritance (`GraduateStudent` is a subclass of `Student`), `extends` keyword, polymorphism
 
 [USPS Registration Form in JFrame](year-1/object-oriented-programming/20250326-b-mp3) <br/>
-> Applied concepts:
+> Applied concepts: <br/>
 > Swing controls, basic UI
+
+[Adu-themed Monopoly Game (first draft & flowshart)](year-1/object-oriented-programming/20250413-b-exam) <br/>
+> Applied concepts: <br/>
+> User interface designing, flowsharting
