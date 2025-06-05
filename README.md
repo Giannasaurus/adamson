@@ -19,3 +19,7 @@
 [University Graduate Student Grade Calculator](year-1/object-oriented-programming/20250319-b-mp2) <br/>
 > Applied concepts: <br/>
 > Constructors & object instantiation, method overloading (`calculateGrade()` with different number of args) & overriding, inheritance (`GraduateStudent` is a subclass of `Student`), `extends` keyword, polymorphism
+
+[USPS Registration Form in JFrame](year-1/object-oriented-programming/20250326-b-mp3) <br/>
+> Applied concepts:
+> Swing controls, basic UI
