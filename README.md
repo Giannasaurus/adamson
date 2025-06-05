@@ -14,4 +14,4 @@
 
 [Student Info Getter](year-1/object-oriented-programming/20250312-b-mp1/screenshots) <br/>
 > Applied concepts: <br/>
-> Encapsulation, object constructors, array of objects, control flow, input handling (`Scanner` class, `.nextInt()`), `.close()`, input validation, `getName()`, object instantiation, package declaration, importing, private fields/attributes/members/variables, public getter methods, `this` keyword <br/>
+> Encapsulation, object constructors, array of objects, control flow, input handling (`Scanner` class, `.nextInt()`), `.close()`, input validation, object instantiation, package declaration, importing, private fields/attributes/members/variables, public getter methods (ex. `getName()`), `this` keyword <br/>
