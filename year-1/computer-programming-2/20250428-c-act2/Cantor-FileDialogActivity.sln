@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cantor-FileDialogActivity", "Cantor-FileDialogActivity\Cantor-FileDialogActivity.csproj", "{010BC15F-246D-49E3-9F82-FE34E8025535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010BC15F-246D-49E3-9F82-FE34E8025535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010BC15F-246D-49E3-9F82-FE34E8025535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010BC15F-246D-49E3-9F82-FE34E8025535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010BC15F-246D-49E3-9F82-FE34E8025535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02152431-5148-42FB-813E-2E2F852FBD87}
+	EndGlobalSection
+EndGlobal
