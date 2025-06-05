@@ -24,6 +24,9 @@
 > Applied concepts: <br/>
 > Swing controls, basic UI
 
-[Adu-themed Monopoly Game (first draft & flowshart)](year-1/object-oriented-programming/20250413-b-exam) <br/>
+Adu-themed Monopoly Game <br/>
+[First draft & Flowshart](year-1/object-oriented-programming/20250413-b-exam) <br/>
+[Second draft & Wireframe](year-1/object-oriented-programming/20250423-c-mp1) <br/>
+[Final Output](year-1/object-oriented-programming/20250521-final-project/AACExpress_MonopolyFile) <br/>
 > Applied concepts: <br/>
-> User interface designing, flowsharting
+> User interface designing, flowsharting, wireframing (literally my only contribution :wilted_flower:)
