@@ -1,8 +1,8 @@
 # Year 1
-## [Computer Programming 2](year-1/computer-programming-2) <br/>
+## [Computer Programming 2](year-1/computer-programming-2) (C#) <br/>
 [Sci Cal for Noobs](year-1/computer-programming-2/20250127-a-act1/screenshots) <br/>
 > Applied concepts: <br/>
-> Namespace, class, data types (`double`, `string`), i/o, explicit type conversion (`int.Parse()`), control flow (switch), arithmetic operations (+, -, *, /, sqrt, cbrt), string concat, comments
+> Namespace, class, data types (`double`, `string`), i/o, explicit type conversion (`int.Parse()`), control flow (switch), arithmetic operations (+, -, *, /, sqrt, cbrt, power), string concat, comments
 
 ## [Object-Oriented Programming](year-1/object-oriented-programming) (Java)
 [3 Simple Java Programs](year-1/object-oriented-programming/20250205-a-mp1) <br/>
