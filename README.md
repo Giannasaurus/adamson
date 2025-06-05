@@ -8,6 +8,6 @@
 > Applied concepts: <br/>
 > Data types, arrays, `BufferedReader`, `InputStreamReader`, control structures, comments <br/>
 
-[ATM :skull:](year-1/object-oriented-programming/20250305-a-exam) <br/>
+[ATM :broken_heart:](year-1/object-oriented-programming/20250305-a-exam) <br/>
 > Applied concepts: <br/>
 > Basic encapsulation, static members, user-defined methods, control flow structures (for, while, switch-case, if-else), arrays, input handling (`Scanner` class), primitive data types, basic error handling, procedural programming :skull: <br/>
