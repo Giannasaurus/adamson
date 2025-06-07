@@ -1,4 +1,9 @@
 # Year 1
+## [Application Development & Emerging Technologies](year-1/application-development-and-emerging-technologies) <br/>
+[Résumé](year-1/application-development-and-emerging-technologies/20250228-a-act1) <br/>
+> Applied concepts: <br/>
+> Static web design, semantic html, internal css, table layout, lists, input ranges, html classes
+
 ## [Computer Programming 2](year-1/computer-programming-2) (C#) <br/>
 [Sci Cal for Noobs (Console App)](year-1/computer-programming-2/20250127-a-act1/screenshots) <br/>
 > Applied concepts: <br/>
