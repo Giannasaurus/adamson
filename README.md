@@ -1,8 +1,20 @@
 # Year 1
 ## [Computer Programming 2](year-1/computer-programming-2) (C#) <br/>
-[Sci Cal for Noobs](year-1/computer-programming-2/20250127-a-act1/screenshots) <br/>
+[Sci Cal for Noobs (Console App)](year-1/computer-programming-2/20250127-a-act1/screenshots) <br/>
 > Applied concepts: <br/>
 > Namespace, class, data types (`double`, `string`), i/o, explicit type conversion (`int.Parse()`), control flow (switch), arithmetic operations (+, -, *, /, sqrt, cbrt, power), string concat, comments
+
+[COE Remake with Windows Forms](year-1/computer-programming-2/20250404-b-act1) <br/>
+> Applied concepts: <br/>
+> Winforms controls
+
+[Basic Calculator with Winforms](year-1/computer-programming-2/20250422-c-act1/Calculator) <br/>
+> Applied concepts: <br/>
+> Basic Windows GUI, arithmetic operations, event handler methods (indicated by `_Click`, and `object sender, Eventargs e`), private methods, explicit type conversion (`Convert.ToDouble()`),
+
+[File Dialog with Winforms](year-1/computer-programming-2/20250428-c-act2) <br/>
+> Applied concepts: <br/>
+> Encapsulation, partial class, event handling, control flow, exception handling, file i/o, dialogs (`SaveFileDialog`, `OpenFileDialog`), user feedback (`MessageBox.Show`), libraries (`iTextSharp`) incomplete PDF support
 
 ## [Object-Oriented Programming](year-1/object-oriented-programming) (Java)
 [3 Simple Java Programs](year-1/object-oriented-programming/20250205-a-mp1) <br/>
@@ -25,7 +37,7 @@
 > Applied concepts: <br/>
 > Constructors & object instantiation, method overloading (`calculateGrade()` with different number of args) & overriding, inheritance (`GraduateStudent` is a subclass of `Student`), `extends` keyword, polymorphism
 
-[USPS Registration Form in JFrame](year-1/object-oriented-programming/20250326-b-mp3) <br/>
+[USPS Registration Form with JFrame](year-1/object-oriented-programming/20250326-b-mp3) <br/>
 > Applied concepts: <br/>
 > Swing controls, basic UI
 
