@@ -1,5 +1,5 @@
 # Year 1
-## [Application Development & Emerging Technologies](year-1/application-development-and-emerging-technologies) <br/>
+## [Application Development & Emerging Technologies](year-1/application-development-and-emerging-technologies) (HTML, CSS, & JavaScript) <br/>
 [Résumé](year-1/application-development-and-emerging-technologies/20250228-a-act1) <br/>
 > Applied concepts: <br/>
 > Static web design, semantic html, internal css, table layout, lists, input ranges, html classes
