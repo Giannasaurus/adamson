@@ -15,6 +15,7 @@
 Case Study <br/>
 [Proposal](year-1/application-development-and-emerging-technologies/20250305-b-sw1) <br/>
 [Proposal-copy](year-1/application-development-and-emerging-technologies/20250327-b-sw2) (literally the same thing :wilted_flower: <br/>
+[Flowchart](year-1/application-development-and-emerging-technologies/20250422-c-act1) <br/>
 
 ## [Computer Programming 2](year-1/computer-programming-2) (C#) <br/>
 [Sci Cal for Noobs (Console App)](year-1/computer-programming-2/20250127-a-act1/screenshots) <br/>
