@@ -8,6 +8,10 @@
 > Applied concepts: <br/>
 > Dynamic content creation, javascript functions, DOM manipulation, loops and conditional statements, event handling, string concat, pattern generation logic, `onload` attribute
 
+[Word Finder](year-1/application-development-and-emerging-technologies/20250402-b-act2) <br/>
+> Applied concepts: <br/>
+> DOM manipulation, event handling, string operations, array, template literals, window events
+
 Case Study <br/>
 [Proposal](year-1/application-development-and-emerging-technologies/20250305-b-sw1) <br/>
 [Proposal-copy](year-1/application-development-and-emerging-technologies/20250327-b-sw2) (literally the same thing :wilted_flower: <br/>
