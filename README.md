@@ -4,6 +4,10 @@
 > Applied concepts: <br/>
 > Static web design, semantic html, internal css, table layout, lists, input ranges, html classes
 
+[Inverse Triangle Pattern Displayer :skull:](year-1/application-development-and-emerging-technologies/20250312-b-act1) <br/>
+> Applied concepts: <br/>
+> Dynamic content creation, javascript functions, DOM manipulation, loops and conditional statements, event handling, string concat, pattern generation logic, `onload` attribute
+
 ## [Computer Programming 2](year-1/computer-programming-2) (C#) <br/>
 [Sci Cal for Noobs (Console App)](year-1/computer-programming-2/20250127-a-act1/screenshots) <br/>
 > Applied concepts: <br/>
