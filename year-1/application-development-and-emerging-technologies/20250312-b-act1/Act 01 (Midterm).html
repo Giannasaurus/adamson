@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+ <head>
+  <meta charset="utf-8">
+  <title>LOOP JS</title>
+  <script type="text/javascript">
+   var i;
+
+   function Shape1(num){
+     let x,y, disp='';
+     let cntr= (num-1) / 2 + 1;
+     let strt=1;
+     let stop=num;
+     console.log(cntr);
+     for(y=1;y<=cntr;y++){
+       for(x=1;x<=num;x++){
+        if(x>=strt && x<=stop){
+          disp+="* &nbsp";
+        }else{
+          disp+="_ &nbsp;";
+        }
+       }
+       if(y<cntr){
+        strt++; stop--;
+       }
+        disp+="<br/>";
+     }
+     document.getElementById('disp').innerHTML=disp;
+   }
+
+   function genBtn() {
+    let btn="";
+    for(i=5;i<=23;i+=2){
+     btn+='<button type="button" onclick="Shape1(' + i + ')">'+i+'</button>';
+    }
+    document.getElementById('btns').innerHTML=btn;
+   }
+  </script>
+ </head>
+ <body onload="genBtn()">
+  <center>
+   <div id="btns"></div><br/>
+   <div id="disp"></div>
+  </center>
+ </body>
+</html>
