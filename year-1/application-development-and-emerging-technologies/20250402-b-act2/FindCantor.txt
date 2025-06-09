@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Word Finder</title>
+  </head>
+  <body>
+    <h1>Given String:</h1>
+    <p onload="dispString()" id="dispString"></p>
+    <button type="button" name="button" onclick="findWord()">FIND</button>
+    <h2>Position of each word:</h2>
+    <p id="dispPosition"></p>
+
+    <script type="text/javascript">
+      const string = "vwlyzbkdmnCloudsxfgrutapmqhvwlyzbkdmnseojcixMountainsqzvbcrjkptgfywxhdlemsaRiversndxgmqzcksojbafylpvwethruOceanbkgxtfzrqylsnjmpcvdhewauTreesjvpxzrmcytokgwsflhbnqudeaSunldhmqszxpgbwyrcvkfjntoeuaMoonfbtzqwlyshkjxgmpvdcaeournStarsznfjpbkqctwxdvyrhlgumaoesWindgrhkzlpqfsmyxatvdnjocubewEarthvysqcdxmrjkbztfpnawlhgouie";
+      const words = ["Clouds", "Mountains", "Rivers", "Ocean", "Trees", "Sun", "Moon", "Stars", "Wind", "Earth"];
+
+      function dispString() {
+        var dispString = document.getElementById("dispString");
+        dispString.innerHTML = string;
+      }
+
+      function findWord() {
+        let allPositions = "";
+        let modifiedString = string;
+
+        for (let i = 0; i < words.length; i++) {
+          const word = words[i];
+          const start = string.indexOf(word);
+          const end = start + word.length - 1;
+          const upperBoldWord = "<b>" + word.toUpperCase() + "</b>";
+          modifiedString = modifiedString.replace(word, upperBoldWord);
+          allPositions += `${word} is at start: ${start}, end: ${end}<br>`;
+        }
+
+        document.getElementById("dispString").innerHTML = modifiedString;
+        document.getElementById("dispPosition").innerHTML = allPositions;
+      }
+
+      window.onload = dispString;
+    </script>
+  </body>
+</html>
